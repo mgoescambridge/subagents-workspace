@@ -1,2 +1,2 @@
 # subagents-workspace
-Claude skill for orchestrating multiple sub-agents illustrate like workspace to tackle complex tasks and break down broad prompts.
+"A Claude skill that turns broad prompts into a structured, real-life team workspace of multiple sub-agents."
